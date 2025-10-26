@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjN2cmNrd3J1OXE1aWdvZ2Jrdm1zdHlxdW13em9hYmNwaWN5dXhwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xT0xeuQ9PymcM2q9Rm/giphy.gif" width="100px" alt="Café quente">
-</p>
-
 <h1 align="center" style="color: #6D4C41;">☕ Olá! Eu sou a Isa.</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[seu-usuario-github]&color=8D6E63" alt="Contador de visitas">
+  <img src="https://komarev.com/ghpvc/?username=isabelladosanjos&color=8D6E63" alt="Contador de visitas">
 </p>
 
 <p align="center" style="font-size: 1.1em; color: #795548;">
