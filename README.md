@@ -2,15 +2,15 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjN2cmNrd3J1OXE1aWdvZ2Jrdm1zdHlxdW13em9hYmNwaWN5dXhwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xT0xeuQ9PymcM2q9Rm/giphy.gif" width="100px" alt="Café quente">
 </p>
 
-<h1 align="center" style="color: #6D4C41;">☕ Olá! Eu sou [Seu Nome].</h1>
+<h1 align="center" style="color: #6D4C41;">☕ Olá! Eu sou a Isa.</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=[seu-usuario-github]&color=8D6E63" alt="Contador de visitas">
 </p>
 
 <p align="center" style="font-size: 1.1em; color: #795548;">
-  Uma estudante de programação dedicada, em constante busca por conhecimento e inovação no universo do desenvolvimento.
-  Entusiasmada em construir soluções digitais impactantes.
+  Sou estudante de Análise e Desenvolvimento de Sistemas e uma verdadeira entusiasta de como a tecnologia conecta tudo.
+  Estou trilhando minha jornada na programação com muita curiosidade, sempre pronta para mergulhar em novos desafios e construir soluções que façam a diferença.
 </p>
 
 ---
@@ -18,79 +18,84 @@
 <h2 style="color: #6D4C41;">🍂 Sobre Mim</h2>
 
 <p style="color: #795548;">
-  📍 Resido em <strong>[Sua Cidade/Estado, País]</strong>.
+  📍 Resido em <strong>Sorocaba - SP</strong>.
 </p>
 
 <p style="color: #795548;">
-  📚 Atualmente, sou estudante de <strong>[Seu Curso]</strong> na <strong>[Nome da Sua Faculdade/Universidade]</strong>, onde aprimoro minhas habilidades e expandi minha compreensão sobre as tecnologias que moldam o futuro.
+  📚 Cursando <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> na <strong>Universidade de Sorocaba</strong>. Minha faculdade é onde eu transformo a curiosidade em conhecimento prático, especialmente quando consigo conectar os pontos entre software e hardware.
 </p>
 
 <p style="color: #795548;">
-  💡 Minha jornada na programação é guiada pela curiosidade e pelo desejo de transformar lógica em funcionalidade, sempre com um olhar atento à qualidade e eficiência do código.
+  💡 Minha filosofia é simples: adoro entender *como as coisas funcionam por baixo dos panos*. Não me contento só em fazer o código rodar; eu gosto de entender a lógica, a infraestrutura por trás e o porquê de cada escolha.
 </p>
 
 ---
 
-<h2 style="color: #6D4C41;">💻 Tecnologias e Ferramentas</h2>
-
-<p style="font-size: 1.1em; color: #795548;">
-  Possuo experiência e estou aprofundando meus conhecimentos em:
-</p>
-
-<ul>
-  <li style="color: #795548;">HTML5 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/></li>
-  <li style="color: #795548;">CSS3 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"/></li>
-  <li style="color: #795548;">JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/></li>
-  <li style="color: #795548;">[Outra Linguagem/Tecnologia, ex: Python] <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/></li>
-  <li style="color: #795548;">[Mais uma se tiver, ex: C#] <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"/></li>
-</ul>
+<h2 style="color: #6D4C41;">🛠️ Minhas Habilidades (Hard & Soft Skills)</h2>
 
 <p style="color: #795548;">
-  Comprometida com a melhoria contínua e pronta para dominar novas stacks tecnológicas.
+  Com base nos meus projetos acadêmicos e estudos, estas são as habilidades que venho desenvolvendo:
 </p>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 style="color: #795548;">Hard Skills (O que eu sei fazer)</h3>
+      <ul style="color: #795548;">
+        <li><strong>Linguagens:</strong> Python (com bibliotecas como CrewAI), C#, JavaScript</li>
+        <li><strong>Web:</strong> HTML5, CSS3</li>
+        <li><strong>Banco de Dados:</strong> MySQL (projetos acadêmicos)</li>
+        <li><strong>Infra & Redes:</strong> Conceitos de arquitetura de computadores (CPU, memória), DNS, e protocolos de rede (como OSPF)</li>
+        <li><strong>Sistemas Operacionais:</strong> Entendimento das camadas e funcionamento de SOs.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 style="color: #795548;">Soft Skills (Como eu trabalho)</h3>
+      <ul style="color: #795548;">
+        <li><strong>Curiosidade Técnica:</strong> Busco ativamente entender temas complexos (como hardware e arquitetura de sistemas).</li>
+        <li><strong>Resolução de Problemas:</strong> Focada em encontrar a raiz dos problemas (como investigar bugs ou... READMEs sumidos!).</li>
+        <li><strong>Colaboração:</strong> Experiência em projetos em grupo na faculdade (como o Projeto Integrador).</li>
+        <li><strong>Aprendizado Contínuo:</strong> Dedicada a estudar para provas e preparar apresentações técnicas.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h2 style="color: #6D4C41;">📚 Interesses Além do Código</h2>
+<h2 style="color: #6D4C41;">🎯 Áreas de Interesse (Para onde estou olhando)</h2>
 
 <p style="color: #795548;">
-  Para além das linhas de código, dedico-me a atividades que enriquecem minha perspectiva e criatividade:
+  Sou fascinada pelo poder do código e tenho um interesse especial em várias frentes:
 </p>
 
 <ul>
-  <li style="color: #795548;">[Seu Hobby 1, ex: Leitura de literatura contemporânea]</li>
-  <li style="color: #795548;">[Seu Hobby 2, ex: Explorar fotografia e arte digital]</li>
-  <li style="color: #795548;">[Seu Hobby 3, ex: Aprender novos idiomas]</li>
+  <li style="color: #795548;"><strong>Back-End:</strong> A "sala de máquinas" das aplicações! Gosto de construir a lógica e a inteligência que fazem tudo funcionar.</li>
+  <li style="color: #795548;"><strong>Inteligência Artificial:</strong> Explorando como máquinas podem aprender e criar, especialmente com ferramentas como o CrewAI.</li>
+  <li style="color: #795548;"><strong>Cybersegurança & Infraestrutura de TI:</strong> Meu lado "fuçador" adora entender como proteger sistemas e como a infraestrutura de rede e hardware suporta o software.</li>
+  <li style="color: #795548;"><strong>Front-End:</strong> Embora meu coração penda mais para o back-end, tenho uma paixão por criar interfaces limpas e intuitivas que as pessoas gostem de usar.</li>
 </ul>
-
-<p style="color: #795548;">
-  Acredito que esses interesses complementam e fortalecem meu pensamento analítico e criativo.
-</p>
 
 ---
 
-<h2 style="color: #6D4C41;">🎯 Áreas de Atuação e Desenvolvimento</h2>
+<h2 style="color: #6D4C41;">☕ Além do Código</h2>
 
 <p style="color: #795548;">
-  Meus principais interesses e onde busco construir minha carreira incluem:
+  Quando não estou de cabeça nos estudos ou em algum projeto, recarrego minhas energias assim:
 </p>
 
 <ul>
-  <li style="color: #795548;"><strong>Desenvolvimento Web (Frontend)</strong>: Paixão por criar interfaces intuitivas e experiências de usuário que se destacam.</li>
-  <li style="color: #795548;"><strong>[Sua Área de Interesse 2, ex: Desenvolvimento de Software]</strong>: Foco na arquitetura e otimização de sistemas robustos.</li>
-  <li style="color: #795548;"><strong>[Sua Área de Interesse 3, ex: UI/UX Design]</strong>: A intersecção entre funcionalidade e estética é algo que me fascina profundamente.</li>
+  <li style="color: #795548;">🏐 Jogando vôlei (para esticar o corpo depois de horas na cadeira!)</li>
+  <li style="color: #795548;">🎧 Ouvindo música (a trilha sonora perfeita para qualquer debug).</li>
+  <li style="color: #795548;">🎮 Explorando mundos em jogos (uma ótima forma de apreciar outras lógicas e designs).</li>
 </ul>
-
-<p style="color: #795548;">
-  Estou em busca de oportunidades desafiadoras que permitam aprofundar meus conhecimentos e aplicar minhas habilidades em projetos inovadores.
-</p>
 
 ---
 
 <h2 style="color: #6D4C41;">✉️ Contato</h2>
 
 <p style="color: #795548;">
-  Conecte-se comigo para discutir projetos, oportunidades ou para trocar ideias:
+  Vamos nos conectar! Estou aberta a oportunidades, projetos e trocas de ideias.
 </p>
 
 <p align="left">
