@@ -101,10 +101,7 @@
 
 <br>
 
-<p align="center" style="font-size: 0.9em; color: #8D6E63;">
-  Construído com dedicação e propósito.
-</p>
 
 <p align="center">
-  <img src="https://github.com/[seu-usuario-github]/[seu-usuario-github]/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  <img src="https://github.com/[isabelladosanjos]/[isabelladosanjos]/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
 </p>
