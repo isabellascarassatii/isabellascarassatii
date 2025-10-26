@@ -28,7 +28,7 @@
 
 - 🧱 **Projeto Freelance – Robson Pinturas:**  
   Desenvolvimento **Front-End**, com foco em design limpo, identidade visual e experiência do usuário.  
-  <sub>Aplicando boas práticas de estrutura, responsividade e comunicação direta com o cliente.</sub>
+  Aplicando boas práticas de estrutura, responsividade e comunicação direta com o cliente.
 
 - 🧩 **Projetos Acadêmicos – Universidade de Sorocaba:**  
   Criação de sistemas integrados explorando **Python**, **C#** e **Banco de Dados**,  
