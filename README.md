@@ -63,9 +63,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isabelladosanjos&show_icons=true&theme=transparent&title_color=795548&icon_color=8D6E63&text_color=A1887F&border_color=5D4037"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelladosanjos&layout=compact&theme=transparent&title_color=795548&text_color=A1887F&border_color=5D4037"/>
-</p>
