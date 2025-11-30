@@ -3,7 +3,7 @@
 <p align="left" style="color:#A1887F;">
 🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na Universidade de Sorocaba.<br>
 💡 Apaixonada por entender como a tecnologia conecta tudo — do código à infraestrutura.<br>
-🚀 Atualmente atuando em projetos acadêmicos e pessoais, para aprendizados e demonstrar o que posso contribuir para uma futura empresa! :)
+🚀 Atualmente atuando em projetos acadêmicos e pessoais, para aprendizados e demonstrar o que posso contribuir para uma futura empresa!
 </p>
 
 ---
