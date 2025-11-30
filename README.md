@@ -3,7 +3,7 @@
 <p align="left" style="color:#A1887F;">
 🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na Universidade de Sorocaba.<br>
 💡 Apaixonada por entender como a tecnologia conecta tudo — do código à infraestrutura.<br>
-🚀 Atualmente atuando em projetos acadêmicos e <strong>freelance</strong>, unindo aprendizado e prática real.
+🚀 Atualmente atuando em projetos acadêmicos e pessoais, para aprendizados e demonstrar o que posso contribuir para uma futura empresa! :)
 </p>
 
 ---
@@ -26,30 +26,31 @@
 
 ### 💼 Experiência & Projetos
 
-- 🧱 **Projeto Freelance – Robson Pinturas:**  
+- 🧱 **Projeto Freelance em 2024 – Robson Pinturas:**  
   Desenvolvimento **Front-End**, com foco em design limpo, identidade visual e experiência do usuário.  
   Aplicando boas práticas de estrutura, responsividade e comunicação direta com o cliente.
+  Esse projeto foi importante para o cliente Robson pois automatizou o processo de agendamentos com os clientes dele.
 
 - 🧩 **Projetos Acadêmicos – Universidade de Sorocaba:**  
-  Criação de sistemas integrados explorando **Python**, **C#** e **Banco de Dados**,  
+  Criação de sistemas integrados explorando **Python**, **MySQL** e **Frameworks**,  
   sempre buscando compreender a lógica e a arquitetura por trás de cada funcionalidade.
 
 ---
 
 ### 🎯 Áreas de Interesse
 
-- ⚙️ **Back-End:** onde a mágica realmente acontece.  
+- ⚙️ **Back-End:** onde a mágica realmente acontece.
+- 🎨 **Front-End:** transformar ideias em experiências visuais agradáveis.   
 - 🧠 **Inteligência Artificial:** entender como máquinas aprendem e criam.  
-- 🛡️ **Cybersegurança & Infraestrutura:** proteger e compreender o que sustenta o software.  
-- 🎨 **Front-End:** transformar ideias em experiências visuais agradáveis.  
+- 🛡️ **Cybersegurança & Infraestrutura:** proteger e compreender o que sustenta o software.
 
 ---
 
 ### ☕ Além do Código
 
-- 🏐 Jogar vôlei (perfeito pra sair um pouco da cadeira e recarregar).  
-- 🎧 Ouvir música — a trilha sonora certa até pros debugs mais teimosos.  
-- 🎮 Explorar mundos em jogos, observando suas lógicas e designs.
+- 🏐 Jogar vôlei 
+- 🎧 Ouvir música 
+- 🎮 Explorar mundos em jogos
 
 ---
 
@@ -57,7 +58,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/isabella-dos-anjos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-5D4037?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:isabellascarsassatii@gmail.com"><img src="https://img.shields.io/badge/Email-795548?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:bellaadevs@gmail.com"><img src="https://img.shields.io/badge/Email-795548?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/isabelladosanjos"><img src="https://img.shields.io/badge/GitHub-3E2723?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
