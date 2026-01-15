@@ -1,98 +1,78 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Isabella&fontSize=50&fontAlign=50&fontAlignY=35&desc=Systems%20Analysis%20Student%20%7C%20AI%20Enthusiast%20%7C%20Python%20Dev&descAlign=50&descAlignY=55&descSize=16&animation=twinkling&fontColor=ffffff" width="100%"/>
-
-  <br/>
-
-  <h3> ❝ Tecnologia com identidade e performance. ❞ </h3>
-
-  <br/>
-
-  [[LinkedIn](https://www.linkedin.com/in/isabella-dos-anjos/)] • [[Portfolio/Projetos](https://portfolio-isabella.vercel.app/)] • [bellaadevs@gmail.com]
-
-  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=240046,3c096c,5a189a,7b2cbf,9d4edd&height=250&section=header&text=Isabella&fontSize=60&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20AI%20%7C%20Systems%20Analysis&descAlign=50&descAlignY=55&descSize=18&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  
   <br/>
   
-  — ✦ —
+  <a href="https://github.com/isabelladosanjos">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isabelladosanjos&show_icons=true&theme=dark&bg_color=0d1117&title_color=9d4edd&icon_color=ff0054&text_color=ffffff&hide_border=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelladosanjos&layout=compact&theme=dark&bg_color=0d1117&title_color=9d4edd&text_color=ffffff&hide_border=true&langs_count=6" />
+  </a>
+
+  <br/>
+  <br/>
+
+  <h3>❝ O código é eterno, a execução é arte. ❞</h3>
+  
+  <p>
+    <a href="https://linkedin.com/in/isabella-dos-anjos" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-240046?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:isabellascarassati@gmail.com">
+      <img src="https://img.shields.io/badge/Email-5a189a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="URL_DO_SEU_PORTFOLIO">
+      <img src="https://img.shields.io/badge/Portfolio-7b2cbf?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
 </div>
 
 <br/>
 
-### ☾ SOBRE MIM
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp;A Mente por trás do Código
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, construindo uma carreira baseada na união entre lógica robusta e interfaces funcionais. 
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, unindo a precisão da lógica backend com a estética do frontend. Minha base em **infraestrutura e virtualização** me permite criar softwares que não são apenas bonitos, mas robustos e seguros. Atualmente, estou expandindo meus horizontes criando **Agentes de IA** autônomos.
 
-Minha jornada técnica começou com foco em **Infraestrutura e Virtualização**, mas evoluiu rapidamente para o desenvolvimento de software. Hoje, atuo desenvolvendo soluções completas: desde a arquitetura do banco de dados e lógica no Back-End, até a experiência visual no Front-End. Além disso, invisto continuamente em especializações em **Inteligência Artificial**, explorando agentes autônomos e automação.
+---
 
-<br/>
+## ⛧ Arsenal Tecnológico
 
-### ⛧ TECH STACK
+### ✦ Front-End & Interfaces (Visual)
+<div style="display: flex; gap: 10px; margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=240046" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&color=3c096c" />
+  <img src="https://img.shields.io/badge/Bubble-Low_Code-20232A?style=for-the-badge&logo=bubble&logoColor=white&color=5a189a" />
+  <img src="https://img.shields.io/badge/Tailwind-CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4&color=7b2cbf" />
+</div>
 
-Minha atuação é versátil, transitando entre a robustez do Python e o dinamismo do ecossistema JavaScript.
+### ✦ Back-End & Engenharia (Lógica)
+<div style="display: flex; gap: 10px; margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&color=590d22" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=800f2f" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&color=a4133c" />
+  <img src="https://img.shields.io/badge/API_Rest-Integration-005C84?style=for-the-badge&logo=fastapi&logoColor=white&color=c9184a" />
+</div>
 
-#### ✦ Front-End & Interfaces
-Criação de experiências visuais reativas e modernas.
-> **Frameworks:** React.js e Vue.js (Componentização e SPAs).
-> **Estilização:** Bootstrap, CSS3, Tailwind.
-> **Low Code:** Bubble.io (Para prototipagem ágil e validação de MVPs).
-
-#### ✦ Back-End & Runtime
-Lógica de servidor, APIs e manipulação de dados.
-> **JavaScript Core:** Node.js (Aplicações escaláveis e integração Full Stack).
-> **Python Ecosystem:** Foco em automação e análise de dados.
-> **Banco de Dados:** MySQL, SQL.
-
-#### ✦ Infraestrutura & Virtualização
-O alicerce seguro para as aplicações.
-> **Virtualização:** VirtualBox (Gestão de ambientes isolados).
-> **OS:** Linux (Ubuntu/Debian) e Windows Avançado.
-
-#### ✦ Inteligência Artificial
-Estudos avançados e implementações de futuro.
-> **Foco:** Agentes autônomos (CrewAI) e integração com LLMs.
-
-<br/>
-
-### ✶ PROJETOS EM DESTAQUE
-
-Abaixo, algumas aplicações que demonstram minhas habilidades na prática:
-
-- **Robson Pinturas Digital:** Web vitrine moderna focada em conversão e branding para prestação de serviços.
-  - *Tech:* React.js, Node.js.
-  - *Integrações:* **Google Identity** (Login seguro) e **WhatsApp API** (Automação de agendamentos).
-  - *Impacto:* Modernização da presença digital e otimização do fluxo de clientes.
-
-- **Symphony IA (Em desenvolvimento):** Um agente de IA focado em recomendação musical inteligente.
-  - *Tech:* Python, Streamlit, Groq API, CrewAI.
-
-- **Belle Time:** Sistema de gestão e agendamento para salões de beleza, com banco de dados estruturado.
-  - *Tech:* Python, MySQL, VirtualBox (Ambiente de homologação).
+### ✦ Infraestrutura & AI (Futuro)
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=000000" />
+  <img src="https://img.shields.io/badge/VirtualBox-2196F3?style=for-the-badge&logo=virtualbox&logoColor=white&color=1a1a1a" />
+  <img src="https://img.shields.io/badge/CrewAI-Agents-black?style=for-the-badge&logo=openai&logoColor=white&color=333333" />
+  <img src="https://img.shields.io/badge/Groq-LLM-black?style=for-the-badge&logo=google&logoColor=white&color=4d4d4d" />
+</div>
 
 <br/>
+<br/>
 
-### ☾ INTERESSES PESSOAIS
+## ⚔️ Grandes Conquistas
 
-Acredito que a criatividade técnica vem de um repertório cultural diverso.
-* **Música:** Post-punk, Darkwave e Metal.
-* **Estilo:** Gótico / Alternativo.
-* **Foco:** Tecnologia, Fitness e Design.
+| Projeto | Stack Principal | Descrição |
+| :--- | :--- | :--- |
+| **Robson Pinturas Digital** | `React` `Node.js` `Google API` | Web Vitrine moderna com integração de **Login Google** e agendamento automático via **WhatsApp API**. Foco em conversão. |
+| **Symphony IA** | `Python` `CrewAI` `Groq` | Agente de Inteligência Artificial para curadoria musical baseada em "moods" complexos. |
+| **Belle Time** | `Python` `MySQL` `VirtualBox` | Sistema completo de agendamento rodando em ambiente virtualizado Linux. Controle total de dados e segurança. |
 
 <br/>
 
 <div align="center">
-  — † —
-  <br/>
-  <br/>
-  
-  <a href="https://www.linkedin.com/in/isabella-dos-anjos/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/isabelladosanjos">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-  <br/>
-  <br/>
-  
-  <samp>2026 © Desenvolvido por Isabella.</samp>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9d4edd,7b2cbf,5a189a,3c096c,240046&height=100&section=footer&fontSize=0" width="100%"/>
 </div>
