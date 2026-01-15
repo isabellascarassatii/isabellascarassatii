@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4a0404&height=220&section=header&text=ISABELLA&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Dev%20%7C%20Analista%20%7C%20Creative%20Mind&descSize=20&descAlignY=60" alt="Header Gótico" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4a0404&height=220&section=header&text=ISABELLA&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Dev%20%7C%20Estágiaria/Júnior%20%7C%20Creative%20Mind&descSize=20&descAlignY=60" alt="Header Gótico" width="100%"/>
 
   <br>
 
