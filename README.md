@@ -39,21 +39,21 @@ Minha experiência une o desenvolvimento técnico à lógica investigativa (Aná
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Python-2b0000?style=for-the-badge&logo=python&logoColor=white&color=3d0000" />
-  <img src="https://img.shields.io/badge/Node.js-2b0000?style=for-the-badge&logo=nodedotjs&logoColor=white&color=4a0000" />
-  <img src="https://img.shields.io/badge/MySQL-2b0000?style=for-the-badge&logo=mysql&logoColor=white&color=5c0000" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&color=2D0000" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white&color=1A0000" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white&color=2D0000" />
   
   <br/>
 
-  <img src="https://img.shields.io/badge/React-2b0000?style=for-the-badge&logo=react&logoColor=61DAFB&color=240000" />
-  <img src="https://img.shields.io/badge/Vue.js-2b0000?style=for-the-badge&logo=vue.js&logoColor=4FC08D&color=2e0000" />
-  <img src="https://img.shields.io/badge/Bubble-2b0000?style=for-the-badge&logo=bubble&logoColor=white&color=380000" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white&color=1A0000" />
+  <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white&color=2D0000" />
+  <img src="https://img.shields.io/badge/Bubble-000000?style=for-the-badge&logo=bubble&logoColor=white&color=1A0000" />
 
   <br/>
 
-  <img src="https://img.shields.io/badge/VirtualBox-2b0000?style=for-the-badge&logo=virtualbox&logoColor=white&color=1a0000" />
-  <img src="https://img.shields.io/badge/CrewAI-Agents-2b0000?style=for-the-badge&logo=openai&logoColor=white&color=0d0000" />
-  <img src="https://img.shields.io/badge/Groq-API-2b0000?style=for-the-badge&logo=google&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/CrewAI_Agents-000000?style=for-the-badge&logo=openai&logoColor=white&color=2D0000" />
+  <img src="https://img.shields.io/badge/Groq_API-000000?style=for-the-badge&logo=lightning&logoColor=white&color=1A0000" />
+  <img src="https://img.shields.io/badge/VirtualBox-000000?style=for-the-badge&logo=virtualbox&logoColor=white&color=2D0000" />
 
 </div>
 
