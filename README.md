@@ -72,21 +72,21 @@ Com domínio em **Python, C# e MySQL**, foco na construção de sistemas seguros
 
 ## ✶ Projetos Selecionados
 
-### ✦ [Symphony IA](LINK_DO_REPOSITORIO)
+### ✦ [Symphony IA](https://github.com/isabelladosanjos/SymphonyIA_ProjetoADS)
 > *Python | Engenharia de Prompt | Integração de API*
 
 Um motor de recomendação que "escuta" o sentimento do usuário.
 * **O que fiz:** Estruturei a lógica de processamento em Python e integrei APIs REST para metadados musicais.
 * **Impacto:** Refinei a precisão das sugestões em **85%** via Engenharia de Prompt, superando buscas estáticas convencionais.
 
-### ✦ [Belle Time](LINK_DO_REPOSITORIO)
+### ✦ [Belle Time](https://github.com/isabelladosanjos/BelleTime_Agenda)
 > *Full Stack Python | MySQL | Virtualização Linux*
 
 Sistema de gestão e agendamento para salão de beleza com foco em segurança de dados.
 * **O que fiz:** Arquitetura Cliente-Servidor com Backend virtualizado.
 * **Impacto:** Automatizei o fechamento de caixa, reduzindo em **90%** o tempo gasto com cálculos manuais e centralizei o histórico de clientes.
 
-### ✦ [Robson Pinturas Web](LINK_DO_REPOSITORIO)
+### ✦ [Robson Pinturas Web]
 > *Front-End | Liderança Técnica | Integração WhatsApp API*
 
 Modernização digital com foco em conversão de leads.
