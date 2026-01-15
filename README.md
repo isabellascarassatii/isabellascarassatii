@@ -7,11 +7,14 @@
   ### ✦ Code is poetry written in the dark ✦
 
   <p align="center">
-    <a href="https://linkedin.com/in/SEU_USER">
+    <a href="https://www.linkedin.com/in/isabella-dos-anjos/">
       <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:SEU_EMAIL@GMAIL.COM">
-      <img src="https://img.shields.io/badge/Email-4a0404?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <a href="https://portfolio-isabella.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-4a0404?style=for-the-badge&logo=polywork&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="mailto:bellaadevs@gmail.com">
+      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
 </div>
