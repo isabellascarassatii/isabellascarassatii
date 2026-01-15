@@ -23,39 +23,34 @@
 
 ## ☾ Sobre Mim
 
-**Não apenas linhas de código, mas arquitetura de soluções.**
+**Foco em eficiência, segurança e estética funcional.**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e atuo na intersecção entre a lógica investigativa e a criatividade técnica. Minha abordagem é cirúrgica: diagnosticar falhas, otimizar processos e criar sistemas que funcionam silenciosa e eficientemente.
+Sou estudante de Análise e Desenvolvimento de Sistemas com atuação híbrida. Desenvolvo soluções robustas de **Back-end** e automação, mas também domino o **Front-end**, entregando interfaces responsivas e otimizadas através de projetos práticos reais.
 
-Tenho um background híbrido que mistura **Desenvolvimento Python**, **Infraestrutura** e **Análise de Risco/Fraude**. Gosto do que é complexo, da estética dark e de transformar dados brutos em inteligência.
+Minha experiência une o desenvolvimento técnico à lógica investigativa (Análise de Risco e Fraude), garantindo sistemas que não apenas funcionam, mas são seguros e escaláveis.
 
-* **Foco atual:** Desenvolvimento Backend (Python/C#) & Automação Inteligente.
-* **Estética:** Minimalismo, Gótico Suave e Tecnologia.
-* **Personalidade:** Criativa, Analítica e Resiliente.
+* **Especialidade:** Python, C#, Integração de APIs e Web Development.
+* **Diferencial:** Visão analítica para prevenção a fraudes e LGPD.
+* **Atitude:** Foco em resultados mensuráveis e resolução de problemas.
 
 ---
 
-## ⛧ Arsenal Técnico (Tech Stack)
+## ⛧ Arsenal Técnico
 
 <div align="center">
 
-### Desenvolvimento & Automação
+### Desenvolvimento & Web
 <img src="https://img.shields.io/badge/Python-722F37?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-722F37?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/N8N-000000?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-722F37?style=for-the-badge&logo=git&logoColor=white"/>
-
-### Front-End & Web
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-722F37?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-722F37?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5_&_CSS3-722F37?style=for-the-badge&logo=html5&logoColor=white"/>
 
-### Análise & Infraestrutura
-<img src="https://img.shields.io/badge/Investigação_e_Fraude-000000?style=for-the-badge&logo=security&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux_&_Virtualização-722F37?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scrum_&_Agile-000000?style=for-the-badge&logo=scrum&logoColor=white"/>
+### Dados & Infraestrutura
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/N8N-722F37?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux_&_Cloud-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-722F37?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
 
@@ -86,15 +81,16 @@ Modernização digital com foco em conversão de leads.
 
 ---
 
-## † Certificações & Estudos
+## † Certificações Principais
 
-| Instituição | Certificação | Status |
-| :--- | :--- | :--- |
-| **IBM** | Artificial Intelligence Fundamentals | ✦ Concluído |
-| **IBM** | Web Development with Python | ✦ Concluído |
-| **FIAP** | Cloud Fundamentals & Architecture | ✦ Concluído |
-| **FIAP** | Chatbots & IA Conversacional | ✦ Concluído |
-| **Cisco** | English for IT 1 & 2 | ✦ Concluído |
+| Instituição | Certificação |
+| :--- | :--- |
+| **Cisco** | Introduction to Cybersecurity |
+| **IBM** | Data Fundamentals |
+| **IBM** | Artificial Intelligence Fundamentals |
+| **IBM** | Web Development with Python |
+| **FIAP** | Cloud Fundamentals & Architecture |
+| **Cisco** | English for IT 1 & 2 |
 
 ---
 
