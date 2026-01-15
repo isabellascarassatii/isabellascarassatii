@@ -1,66 +1,98 @@
-<h1 style="color:#795548;">☕ Oi! Eu sou a Isabella 👋</h1>
+<div align="center">
 
-<p align="left" style="color:#A1887F;">
-🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na Universidade de Sorocaba.<br>
-💡 Apaixonada por entender como a tecnologia conecta tudo — do código à infraestrutura.<br>
-🚀 Atualmente atuando em projetos acadêmicos e pessoais para aprendizados e demonstrar o que posso contribuir para uma futura empresa!
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Isabella&fontSize=50&fontAlign=50&fontAlignY=35&desc=Systems%20Analysis%20Student%20%7C%20AI%20Enthusiast%20%7C%20Python%20Dev&descAlign=50&descAlignY=55&descSize=16&animation=twinkling&fontColor=ffffff" width="100%"/>
 
----
+  <br/>
 
-### 🛠 Tecnologias & Ferramentas
+  <h3> ❝ Tecnologia com identidade e performance. ❞ </h3>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-795548?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-8D6E63?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-6D4C41?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-5D4037?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-4E342E?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-3E2723?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-795548?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-6D4C41?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/CrewAI-5D4037?style=for-the-badge&logo=ai&logoColor=white">
-</p>
+  <br/>
 
----
+  [[LinkedIn](https://www.linkedin.com/in/isabella-dos-anjos/)] • [[Portfolio/Projetos](https://portfolio-isabella.vercel.app/)] • [bellaadevs@gmail.com]
 
-### 💼 Experiência & Projetos
+  <br/>
+  <br/>
+  
+  — ✦ —
+</div>
 
-- 🧱 **Projeto Freelance em 2024 – Robson Pinturas:**  
-  Desenvolvimento **Front-End**, com foco em design limpo, identidade visual e experiência do usuário.  
-  Aplicando boas práticas de estrutura, responsividade e comunicação direta com o cliente.
-  Esse projeto foi importante para o cliente Robson pois automatizou o processo de agendamentos com os clientes dele.
+<br/>
 
-- 🧩 **Projetos Acadêmicos – Universidade de Sorocaba:**  
-  Criação de sistemas integrados explorando **Python**, **MySQL** e **Frameworks**,  
-  sempre buscando compreender a lógica e a arquitetura por trás de cada funcionalidade.
+### ☾ SOBRE MIM
 
----
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, construindo uma carreira baseada na união entre lógica robusta e interfaces funcionais. 
 
-### 🎯 Áreas de Interesse
+Minha jornada técnica começou com foco em **Infraestrutura e Virtualização**, mas evoluiu rapidamente para o desenvolvimento de software. Hoje, atuo desenvolvendo soluções completas: desde a arquitetura do banco de dados e lógica no Back-End, até a experiência visual no Front-End. Além disso, invisto continuamente em especializações em **Inteligência Artificial**, explorando agentes autônomos e automação.
 
-- ⚙️ **Back-End:** onde a mágica realmente acontece.
-- 🎨 **Front-End:** transformar ideias em experiências visuais agradáveis.   
-- 🧠 **Inteligência Artificial:** entender como máquinas aprendem e criam.  
-- 🛡️ **Cybersegurança & Infraestrutura:** proteger e compreender o que sustenta o software.
+<br/>
 
----
+### ⛧ TECH STACK
 
-### ☕ Além do Código
+Minha atuação é versátil, transitando entre a robustez do Python e o dinamismo do ecossistema JavaScript.
 
-- 🏐 Jogar vôlei 
-- 🎧 Ouvir música 
-- 🎮 Explorar mundos em jogos
+#### ✦ Front-End & Interfaces
+Criação de experiências visuais reativas e modernas.
+> **Frameworks:** React.js e Vue.js (Componentização e SPAs).
+> **Estilização:** Bootstrap, CSS3, Tailwind.
+> **Low Code:** Bubble.io (Para prototipagem ágil e validação de MVPs).
 
----
+#### ✦ Back-End & Runtime
+Lógica de servidor, APIs e manipulação de dados.
+> **JavaScript Core:** Node.js (Aplicações escaláveis e integração Full Stack).
+> **Python Ecosystem:** Foco em automação e análise de dados.
+> **Banco de Dados:** MySQL, SQL.
 
-### ✉️ Contato
+#### ✦ Infraestrutura & Virtualização
+O alicerce seguro para as aplicações.
+> **Virtualização:** VirtualBox (Gestão de ambientes isolados).
+> **OS:** Linux (Ubuntu/Debian) e Windows Avançado.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/isabella-dos-anjos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-5D4037?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:bellaadevs@gmail.com"><img src="https://img.shields.io/badge/Email-795548?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/isabelladosanjos"><img src="https://img.shields.io/badge/GitHub-3E2723?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+#### ✦ Inteligência Artificial
+Estudos avançados e implementações de futuro.
+> **Foco:** Agentes autônomos (CrewAI) e integração com LLMs.
 
----
+<br/>
 
+### ✶ PROJETOS EM DESTAQUE
+
+Abaixo, algumas aplicações que demonstram minhas habilidades na prática:
+
+- **Robson Pinturas Digital:** Web vitrine moderna focada em conversão e branding para prestação de serviços.
+  - *Tech:* React.js, Node.js.
+  - *Integrações:* **Google Identity** (Login seguro) e **WhatsApp API** (Automação de agendamentos).
+  - *Impacto:* Modernização da presença digital e otimização do fluxo de clientes.
+
+- **Symphony IA (Em desenvolvimento):** Um agente de IA focado em recomendação musical inteligente.
+  - *Tech:* Python, Streamlit, Groq API, CrewAI.
+
+- **Belle Time:** Sistema de gestão e agendamento para salões de beleza, com banco de dados estruturado.
+  - *Tech:* Python, MySQL, VirtualBox (Ambiente de homologação).
+
+<br/>
+
+### ☾ INTERESSES PESSOAIS
+
+Acredito que a criatividade técnica vem de um repertório cultural diverso.
+* **Música:** Post-punk, Darkwave e Metal.
+* **Estilo:** Gótico / Alternativo.
+* **Foco:** Tecnologia, Fitness e Design.
+
+<br/>
+
+<div align="center">
+  — † —
+  <br/>
+  <br/>
+  
+  <a href="https://www.linkedin.com/in/isabella-dos-anjos/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/isabelladosanjos">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <br/>
+  <br/>
+  
+  <samp>2026 © Desenvolvido por Isabella.</samp>
+</div>
