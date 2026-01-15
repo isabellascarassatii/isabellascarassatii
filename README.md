@@ -2,13 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=240046,3c096c,5a189a,7b2cbf,9d4edd&height=250&section=header&text=Isabella&fontSize=60&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20AI%20%7C%20Systems%20Analysis&descAlign=50&descAlignY=55&descSize=18&animation=fadeIn&fontColor=ffffff" width="100%"/>
   
   <br/>
-  
-  <a href="https://github.com/isabelladosanjos">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isabelladosanjos&show_icons=true&theme=dark&bg_color=0d1117&title_color=9d4edd&icon_color=ff0054&text_color=ffffff&hide_border=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelladosanjos&layout=compact&theme=dark&bg_color=0d1117&title_color=9d4edd&text_color=ffffff&hide_border=true&langs_count=6" />
-  </a>
-
-  <br/>
   <br/>
 
   <h3>❝ O código é eterno, a execução é arte. ❞</h3>
@@ -20,7 +13,7 @@
     <a href="mailto:isabellascarassati@gmail.com">
       <img src="https://img.shields.io/badge/Email-5a189a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="URL_DO_SEU_PORTFOLIO">
+    <a href="https://portfolio-isabella.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-7b2cbf?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
