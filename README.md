@@ -40,14 +40,25 @@ Minha experiência une o desenvolvimento técnico à lógica investigativa (Aná
 <div align="center">
 
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&color=2D0000" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white&color=1A0000" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white&color=2D0000" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white&color=1A0000" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white&color=2D0000" />
   
   <br/>
 
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white&color=1A0000" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&color=1A0000" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white&color=2D0000" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white&color=1A0000" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white&color=2D0000" />
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white&color=1A0000" />
+
+  <br/>
+
   <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white&color=2D0000" />
   <img src="https://img.shields.io/badge/Bubble-000000?style=for-the-badge&logo=bubble&logoColor=white&color=1A0000" />
+  <img src="https://img.shields.io/badge/N8N-000000?style=for-the-badge&logo=n8n&logoColor=white&color=2D0000" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&color=1A0000" />
 
   <br/>
 
