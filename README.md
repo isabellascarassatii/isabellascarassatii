@@ -39,18 +39,21 @@ Minha experiência une o desenvolvimento técnico à lógica investigativa (Aná
 
 <div align="center">
 
-### Desenvolvimento & Web
-<img src="https://img.shields.io/badge/Python-722F37?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-722F37?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5_&_CSS3-722F37?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-2b0000?style=for-the-badge&logo=python&logoColor=white&color=3d0000" />
+  <img src="https://img.shields.io/badge/Node.js-2b0000?style=for-the-badge&logo=nodedotjs&logoColor=white&color=4a0000" />
+  <img src="https://img.shields.io/badge/MySQL-2b0000?style=for-the-badge&logo=mysql&logoColor=white&color=5c0000" />
+  
+  <br/>
 
-### Dados & Infraestrutura
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/N8N-722F37?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux_&_Cloud-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-722F37?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-2b0000?style=for-the-badge&logo=react&logoColor=61DAFB&color=240000" />
+  <img src="https://img.shields.io/badge/Vue.js-2b0000?style=for-the-badge&logo=vue.js&logoColor=4FC08D&color=2e0000" />
+  <img src="https://img.shields.io/badge/Bubble-2b0000?style=for-the-badge&logo=bubble&logoColor=white&color=380000" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/VirtualBox-2b0000?style=for-the-badge&logo=virtualbox&logoColor=white&color=1a0000" />
+  <img src="https://img.shields.io/badge/CrewAI-Agents-2b0000?style=for-the-badge&logo=openai&logoColor=white&color=0d0000" />
+  <img src="https://img.shields.io/badge/Groq-API-2b0000?style=for-the-badge&logo=google&logoColor=white&color=000000" />
 
 </div>
 
