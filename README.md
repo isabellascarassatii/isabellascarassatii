@@ -23,15 +23,15 @@
 
 ## ☾ Sobre Mim
 
-**Foco em eficiência, segurança e estética funcional.**
+**Onde a lógica investigativa encontra a estética funcional.**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com atuação híbrida. Desenvolvo soluções robustas de **Back-end** e automação, mas também domino o **Front-end**, entregando interfaces responsivas e otimizadas através de projetos práticos reais.
+Sou desenvolvedora com foco em **Back-end e Engenharia de Dados**, mas com o diferencial de dominar o **Front-end** para entregar soluções completas de ponta a ponta. Minha trajetória une o rigor da **Prevenção a Fraudes (CX)** à criação de arquiteturas de software sólidas e interfaces intuitivas.
 
-Minha experiência une o desenvolvimento técnico à lógica investigativa (Análise de Risco e Fraude), garantindo sistemas que não apenas funcionam, mas são seguros e escaláveis.
+Com domínio em **Python, C# e MySQL**, foco na construção de sistemas seguros e automatizados. No Front-end, utilizo **React, JavaScript e Bootstrap** para converter dados complexos em experiências visuais limpas e responsivas. Minha experiência em ambientes de alta criticidade garante que eu entregue código otimizado, respeitando rigorosamente prazos (**SLA**) e normas de **Segurança da Informação**.
 
-* **Especialidade:** Python, C#, Integração de APIs e Web Development.
-* **Diferencial:** Visão analítica para prevenção a fraudes e LGPD.
-* **Atitude:** Foco em resultados mensuráveis e resolução de problemas.
+* **Full Stack Mindset:** Back-end robusto integrado a interfaces Modern-Clean.
+* **Hard Skills:** Automação em Python, modelagem SQL e desenvolvimento Web responsivo.
+* **Diferencial:** Pensamento analítico voltado para segurança, integridade de dados e UX.
 
 ---
 
