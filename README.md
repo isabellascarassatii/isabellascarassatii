@@ -86,7 +86,7 @@ Sistema de gestão e agendamento para salão de beleza com foco em segurança de
 * **O que fiz:** Arquitetura Cliente-Servidor com Backend virtualizado.
 * **Impacto:** Automatizei o fechamento de caixa, reduzindo em **90%** o tempo gasto com cálculos manuais e centralizei o histórico de clientes.
 
-### ✦ [Robson Pinturas Web]
+### ✦ Robson Pinturas Web
 > *Front-End | Liderança Técnica | Integração WhatsApp API*
 
 Modernização digital com foco em conversão de leads.
