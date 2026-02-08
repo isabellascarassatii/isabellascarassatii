@@ -72,6 +72,13 @@ Com domínio em **Python, C# e MySQL**, foco na construção de sistemas seguros
 
 ## ✶ Projetos Selecionados
 
+### ✦ [Umbra Sentinel](https://github.com/isabellascarassatii/umbra-sentinel)
+> *Node.js | MySQL | React | Security Monitoring*
+
+Uma sentinela de rede projetada para auditoria e monitoramento de logs em tempo real.
+* **O que fiz:** Implementei um middleware de auditoria para interceptação de requisições HTTP e persistência automatizada em banco de dados relacional.
+* **Impacto:** Transformei fluxos de dados complexos em um dashboard funcional, garantindo a rastreabilidade completa de acessos (IP, Rota e Método) sob uma interface gótica e minimalista.
+
 ### ✦ [Symphony IA](https://github.com/isabelladosanjos/SymphonyIA_ProjetoADS)
 > *Python | Engenharia de Prompt | Integração de API*
 
