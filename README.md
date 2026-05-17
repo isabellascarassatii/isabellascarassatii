@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4a0404&height=220&section=header&text=ISABELLA&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Dev%20%7C%20Estagiária%20em%20Sistemas%20Corporativos%20%7C%20Creative%20Mind&descSize=20&descAlignY=60" alt="Header Gótico" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4a0404&height=220&section=header&text=ISABELLA&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Dev%20%7C%20Estagiária%20em%20Sistemas%20%20%7C%20Creative%20Mind&descSize=20&descAlignY=60" alt="Header Gótico" width="100%"/>
 
   <br>
 
@@ -25,13 +25,13 @@
 
 Sou desenvolvedora com foco em **Back-end e Engenharia de Dados**, mas com o diferencial de dominar o **Front-end** para entregar soluções completas de ponta a ponta. Minha trajetória une o rigor da **Prevenção a Fraudes (CX)** à atuação em ambientes corporativos críticos, trabalhando diretamente com sustentação de sistemas empresariais, ERP e análise de processos.
 
-Atualmente atuo como **Estagiária de Suporte em Sistemas Corporativos na Adimax**, realizando suporte técnico, análise de incidentes, acompanhamento de chamados e validação de processos internos utilizando o **ERP Protheus (TOTVS)**.
+Atualmente atuo como **Estagiária de Suporte em Sistemas na Adimax**, realizando suporte técnico, análise de incidentes, acompanhamento de chamados e validação de processos internos utilizando o **ERP Protheus (TOTVS)**.
 
 Com domínio em **Python, C#, SQL e MySQL**, foco na construção de sistemas seguros, automatizados e escaláveis. Minha experiência em ambientes corporativos de alta demanda fortaleceu minhas habilidades em troubleshooting, análise crítica, cumprimento de SLA e suporte a operações críticas de negócio.
 
 * **Full Stack Mindset:** Back-end robusto integrado a interfaces Modern-Clean.
 * **Corporate Experience:** ERP, sustentação de sistemas e suporte corporativo.
-* **Hard Skills:** Automação em Python, modelagem SQL e desenvolvimento Web responsivo.
+* **Hard Skills:** Python, modelagem SQL e desenvolvimento Web responsivo.
 * **Diferencial:** Pensamento analítico voltado para segurança, integridade de dados e UX.
 
 ---
@@ -50,6 +50,19 @@ Atuação no suporte e sustentação de sistemas empresariais utilizando ERP Pro
 * Apoio em integrações e processos internos.
 * Contato com banco de dados e ambientes corporativos.
 * Troubleshooting técnico e suporte a usuários internos.
+
+### ✦ Pulse Client Experts
+> *Especialista de CX e Negócios | Prevenção à Fraudes*
+
+Atuação em atendimento estratégico e prevenção a fraudes, auxiliando clientes em cenários críticos envolvendo segurança digital, análise de risco e validação de identidade.
+
+* Atendimento receptivo e humanizado para clientes em situações de fragilidade financeira pós e anti-fraudes.
+* Análise investigativa de riscos e identificação de padrões suspeitos em transações digitais.
+* Tratativa de contestações e desacordos comerciais com foco em redução de perdas financeiras.
+* Validação de identidade (ID) e gerenciamento de acessos seguindo protocolos de autenticação e segurança.
+* Investigação de inconsistências e análise crítica de dados para resolução de incidentes.
+* Comunicação assertiva para tradução de cenários técnicos e suporte ao cliente.
+* Atuação orientada por métricas, compliance e experiência do usuário (CX).
 
 ---
 
@@ -93,30 +106,6 @@ Atuação no suporte e sustentação de sistemas empresariais utilizando ERP Pro
   <img src="https://img.shields.io/badge/VirtualBox-000000?style=for-the-badge&logo=virtualbox&logoColor=white&color=2D0000" />
 
 </div>
-
----
-
-## ✶ Projetos Corporativos Futuramente
-
-### ✦ Corporate Ticket Dashboard
-> *React | MySQL | SLA Management*
-
-Dashboard corporativo para monitoramento de chamados, prioridades e indicadores SLA em tempo real.
-
-### ✦ ERP Process Simulator
-> *Python | SQL | Business Rules*
-
-Simulador de processos empresariais inspirado em fluxos ERP corporativos.
-
-### ✦ Log Sentinel
-> *Python | Monitoring | Automation*
-
-Ferramenta de análise automatizada de logs corporativos para troubleshooting e auditoria.
-
-### ✦ Support Automation AI
-> *Python | IA | Process Automation*
-
-Automação inteligente para categorização e análise de chamados técnicos.
 
 ---
 
