@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4a0404&height=220&section=header&text=ISABELLA&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Dev%20%7C%20Estágiaria/Júnior%20%7C%20Creative%20Mind&descSize=20&descAlignY=60" alt="Header Gótico" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4a0404&height=220&section=header&text=ISABELLA&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Dev%20%7C%20Estagiária%20em%20Sistemas%20Corporativos%20%7C%20Creative%20Mind&descSize=20&descAlignY=60" alt="Header Gótico" width="100%"/>
 
   <br>
 
@@ -23,15 +23,33 @@
 
 ## ☾ Sobre Mim
 
-**Onde a lógica investigativa encontra a estética funcional.**
+Sou desenvolvedora com foco em **Back-end e Engenharia de Dados**, mas com o diferencial de dominar o **Front-end** para entregar soluções completas de ponta a ponta. Minha trajetória une o rigor da **Prevenção a Fraudes (CX)** à atuação em ambientes corporativos críticos, trabalhando diretamente com sustentação de sistemas empresariais, ERP e análise de processos.
 
-Sou desenvolvedora com foco em **Back-end e Engenharia de Dados**, mas com o diferencial de dominar o **Front-end** para entregar soluções completas de ponta a ponta. Minha trajetória une o rigor da **Prevenção a Fraudes (CX)** à criação de arquiteturas de software sólidas e interfaces intuitivas.
+Atualmente atuo como **Estagiária de Suporte em Sistemas Corporativos na Adimax**, realizando suporte técnico, análise de incidentes, acompanhamento de chamados e validação de processos internos utilizando o **ERP Protheus (TOTVS)**.
 
-Com domínio em **Python, C# e MySQL**, foco na construção de sistemas seguros e automatizados. No Front-end, utilizo **React, JavaScript e Bootstrap** para converter dados complexos em experiências visuais limpas e responsivas. Minha experiência em ambientes de alta criticidade garante que eu entregue código otimizado, respeitando rigorosamente prazos (**SLA**) e normas de **Segurança da Informação**.
+Com domínio em **Python, C#, SQL e MySQL**, foco na construção de sistemas seguros, automatizados e escaláveis. Minha experiência em ambientes corporativos de alta demanda fortaleceu minhas habilidades em troubleshooting, análise crítica, cumprimento de SLA e suporte a operações críticas de negócio.
 
 * **Full Stack Mindset:** Back-end robusto integrado a interfaces Modern-Clean.
+* **Corporate Experience:** ERP, sustentação de sistemas e suporte corporativo.
 * **Hard Skills:** Automação em Python, modelagem SQL e desenvolvimento Web responsivo.
 * **Diferencial:** Pensamento analítico voltado para segurança, integridade de dados e UX.
+
+---
+
+## ☩ Experiência Profissional
+
+### ✦ Adimax
+> *Estagiária de Suporte em Sistemas Corporativos*
+
+Atuação no suporte e sustentação de sistemas empresariais utilizando ERP Protheus (TOTVS), auxiliando usuários e equipes internas na resolução de incidentes e validação de processos corporativos.
+
+* Suporte técnico a sistemas corporativos e ERP.
+* Acompanhamento de chamados e cumprimento de SLA.
+* Execução e validação de scripts SQL.
+* Análise de inconsistências e regras de negócio.
+* Apoio em integrações e processos internos.
+* Contato com banco de dados e ambientes corporativos.
+* Troubleshooting técnico e suporte a usuários internos.
 
 ---
 
@@ -44,7 +62,15 @@ Com domínio em **Python, C# e MySQL**, foco na construção de sistemas seguros
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white&color=2D0000" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white&color=1A0000" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white&color=2D0000" />
-  
+  <img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=1A0000" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/TOTVS_Protheus-000000?style=for-the-badge&logo=data&logoColor=white&color=2D0000" />
+  <img src="https://img.shields.io/badge/ERP_Systems-000000?style=for-the-badge&logo=buffer&logoColor=white&color=1A0000" />
+  <img src="https://img.shields.io/badge/Corporate_Support-000000?style=for-the-badge&logo=windows-terminal&logoColor=white&color=2D0000" />
+  <img src="https://img.shields.io/badge/ITSM-000000?style=for-the-badge&logo=jira&logoColor=white&color=1A0000" />
+
   <br/>
 
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&color=1A0000" />
@@ -70,12 +96,37 @@ Com domínio em **Python, C# e MySQL**, foco na construção de sistemas seguros
 
 ---
 
+## ✶ Projetos Corporativos Futuramente
+
+### ✦ Corporate Ticket Dashboard
+> *React | MySQL | SLA Management*
+
+Dashboard corporativo para monitoramento de chamados, prioridades e indicadores SLA em tempo real.
+
+### ✦ ERP Process Simulator
+> *Python | SQL | Business Rules*
+
+Simulador de processos empresariais inspirado em fluxos ERP corporativos.
+
+### ✦ Log Sentinel
+> *Python | Monitoring | Automation*
+
+Ferramenta de análise automatizada de logs corporativos para troubleshooting e auditoria.
+
+### ✦ Support Automation AI
+> *Python | IA | Process Automation*
+
+Automação inteligente para categorização e análise de chamados técnicos.
+
+---
+
 ## ✶ Projetos Selecionados
 
 ### ✦ [Umbra Sentinel](https://github.com/isabellascarassatii/umbra-sentinel)
 > *Node.js | MySQL | React | Security Monitoring*
 
 Uma sentinela de rede projetada para auditoria e monitoramento de logs em tempo real.
+
 * **O que fiz:** Implementei um middleware de auditoria para interceptação de requisições HTTP e persistência automatizada em banco de dados relacional.
 * **Impacto:** Transformei fluxos de dados complexos em um dashboard funcional, garantindo a rastreabilidade completa de acessos (IP, Rota e Método) sob uma interface gótica e minimalista.
 
@@ -83,6 +134,7 @@ Uma sentinela de rede projetada para auditoria e monitoramento de logs em tempo 
 > *Python | Engenharia de Prompt | Integração de API*
 
 Um motor de recomendação que "escuta" o sentimento do usuário.
+
 * **O que fiz:** Estruturei a lógica de processamento em Python e integrei APIs REST para metadados musicais.
 * **Impacto:** Refinei a precisão das sugestões em **85%** via Engenharia de Prompt, superando buscas estáticas convencionais.
 
@@ -90,15 +142,9 @@ Um motor de recomendação que "escuta" o sentimento do usuário.
 > *Full Stack Python | MySQL | Virtualização Linux*
 
 Sistema de gestão e agendamento para salão de beleza com foco em segurança de dados.
+
 * **O que fiz:** Arquitetura Cliente-Servidor com Backend virtualizado.
 * **Impacto:** Automatizei o fechamento de caixa, reduzindo em **90%** o tempo gasto com cálculos manuais e centralizei o histórico de clientes.
-
-### ✦ Robson Pinturas Web
-> *Front-End | Liderança Técnica | Integração WhatsApp API*
-
-Modernização digital com foco em conversão de leads.
-* **O que fiz:** Liderança do ciclo completo (requisitos ao deploy) e implementação de autenticação OAuth.
-* **Impacto:** Interface Mobile-First otimizada para captar clientes via WhatsApp Business API.
 
 ---
 
@@ -124,3 +170,4 @@ Modernização digital com foco em conversão de leads.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4a0404&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
+```
