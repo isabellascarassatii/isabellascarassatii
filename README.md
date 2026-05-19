@@ -25,7 +25,7 @@
 
 Sou desenvolvedora com foco em **Back-end e Engenharia de Dados**, mas com o diferencial de dominar o **Front-end** para entregar soluções completas de ponta a ponta. Minha trajetória une o rigor da **Prevenção a Fraudes (CX)** à atuação em ambientes corporativos críticos, trabalhando diretamente com sustentação de sistemas empresariais, ERP e análise de processos.
 
-Atualmente atuo como **Estagiária de Suporte em Sistemas na Adimax**, realizando suporte técnico, análise de incidentes, acompanhamento de chamados e validação de processos internos utilizando o **ERP Protheus (TOTVS)**.
+Atualmente atuo como **Estagiária de Suporte em Sistemas na Adimax**, realizando suporte técnico, análise de incidentes, acompanhamento de chamados e validação de processos internos utilizando sistemas internos e o ERP Protheus.
 
 Com domínio em **Python, C#, SQL e MySQL**, foco na construção de sistemas seguros, automatizados e escaláveis. Minha experiência em ambientes corporativos de alta demanda fortaleceu minhas habilidades em troubleshooting, análise crítica, cumprimento de SLA e suporte a operações críticas de negócio.
 
