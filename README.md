@@ -23,19 +23,17 @@
 
 ## ☾ Sobre Mim
 
-Sou desenvolvedora com foco em **Back-end e Engenharia de Dados**, mas com o diferencial de dominar o **Front-end** para entregar soluções completas de ponta a ponta. Minha trajetória une o rigor da **Prevenção a Fraudes (CX)** à atuação em ambientes corporativos críticos, trabalhando diretamente com sustentação de sistemas empresariais, ERP e análise de processos.
+Sou desenvolvedora com foco em **Back-end e Engenharia de Dados**, mas com o diferencial de dominar o **Front-end** para entregar soluções completas de ponta a ponta. Minha trajetória une o rigor investigativo da **Prevenção a Fraudes (CX)** à atuação em ambientes corporativos críticos, garantindo a sustentação de sistemas empresariais e análise de processos.
 
-Atualmente atuo como **Estagiária de Suporte em Sistemas na Adimax**, realizando suporte técnico, análise de incidentes, acompanhamento de chamados e validação de processos internos utilizando sistemas internos e o ERP Protheus.
+Atualmente atuo como **Estagiária de Suporte em Sistemas na Adimax**, onde trabalho diretamente com o ERP Protheus e sistemas internos. Minha missão é garantir a fluidez da operação comercial, traduzindo regras de negócio complexas em resoluções ágeis por meio de troubleshooting, análise de incidentes e validação de processos.
 
-Meu dia a dia envolve atendimento direto a representantes comerciais e gerentes de vendas, atuando na identificação e resolução de problemas em sistemas utilizados pela área comercial. Entre as atividades realizadas estão criação e manutenção de usuários, cadastros diversos, correção de inconsistências, suporte relacionado a caixas de verba, geração e análise de relatórios, além da validação de processos e regras de negócio que impactam diretamente a operação comercial.
-
-Com domínio em Python, C#, SQL e MySQL, foco na construção de sistemas seguros, automatizados e escaláveis. Minha experiência em ambientes corporativos de alta demanda fortaleceu minhas habilidades em troubleshooting, análise crítica, cumprimento de SLA e suporte a operações críticas de negócio.
+Com base sólida em Python, C# e SQL, foco na construção de sistemas seguros, automatizados e escaláveis. Minha experiência em ambientes corporativos de alta demanda fortaleceu minha visão sistêmica, pensamento crítico e foco no cumprimento de SLAs.
 
 * **Full Stack Mindset:** Back-end robusto integrado a interfaces Modern-Clean.
 * **Corporate Experience:** ERP, sustentação de sistemas e suporte corporativo.
-* **Hard Skills:** Python, modelagem SQL e desenvolvimento Web responsivo.
+* **Hard Skills:** Python, C#, modelagem SQL e desenvolvimento Web responsivo.
 * **Diferencial:** Pensamento analítico voltado para segurança, integridade de dados e UX.
-
+  
 ---
 
 ## ☩ Experiência Profissional
