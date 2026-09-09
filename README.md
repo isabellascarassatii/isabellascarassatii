@@ -7,7 +7,7 @@
   ### ✦ Code is poetry written in the dark ✦
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/isabella-dos-anjos/">
+    <a href="https://www.linkedin.com/in/isabellascarassati/">
       <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://portfolio-isabella.vercel.app/">
