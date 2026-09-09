@@ -1,22 +1,23 @@
 <div align="center">
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4a0404&height=220&section=header&text=ISABELLA&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Dev%20%7C%20Estagiária%20em%20Suporte%20%20%7C%20Creative%20Mind&descSize=20&descAlignY=60" alt="Header Gótico" width="100%"/>
 
   <br>
 
   ### ✦ Code is poetry written in the dark ✦
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/isabellascarassati/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://portfolio-isabella.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-4a0404?style=for-the-badge&logo=polywork&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:bellaadevs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/isabellascarassati/">
+      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge" alt="LinkedIn"/>
+    </a>
+    <a href="https://portfolio-isabella.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-4a0404?style=for-the-badge" alt="Portfolio"/>
+    </a>
+    <a href="mailto:bellaadevs@gmail.com">
+      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge" alt="Email"/>
+    </a>
+  </p>
+</div>
+
 <br>
 
 ## ☾ Sobre Mim
@@ -152,6 +153,4 @@ Sistema de gestão e agendamento para salão de beleza com foco em segurança de
 
 ---
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4a0404&height=100&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4a0404&height=100&section=footer&animation=fadeIn" width="100%"/>
