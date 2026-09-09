@@ -154,13 +154,6 @@ Sistema de gestão e agendamento para salão de beleza com foco em segurança de
 
 ---
 
-<div align="center">
-  
-  <br>
-  
-  *"A eficiência é o meu ritual."*
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4a0404&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
-```
